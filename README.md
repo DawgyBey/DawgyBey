@@ -106,8 +106,8 @@ A modern school platform designed to manage **school information, content, and a
 
 ## GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=7DF9FF&icon_color=7DF9FF&text_color=9CA3AF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DawgyBey&show_icons=true&hide_border=true&theme=transparent&title_color=7DF9FF&icon_color=7DF9FF&text_color=9CA3AF" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=7DF9FF&text_color=9CA3AF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawgyBey&layout=compact&hide_border=true&theme=transparent&title_color=7DF9FF&text_color=9CA3AF" />
 
 </div>
